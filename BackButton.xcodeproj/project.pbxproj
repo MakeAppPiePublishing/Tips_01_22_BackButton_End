@@ -12,6 +12,7 @@
 		201800152091F5AC0024FBD4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 201800132091F5AC0024FBD4 /* Main.storyboard */; };
 		201800172091F5AC0024FBD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 201800162091F5AC0024FBD4 /* Assets.xcassets */; };
 		2018001A2091F5AC0024FBD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 201800182091F5AC0024FBD4 /* LaunchScreen.storyboard */; };
+		201800242091F7980024FBD4 /* LadyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 201800232091F7980024FBD4 /* LadyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		201800162091F5AC0024FBD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		201800192091F5AC0024FBD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2018001B2091F5AC0024FBD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		201800232091F7980024FBD4 /* LadyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LadyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2018000F2091F5AC0024FBD4 /* AppDelegate.swift */,
 				201800112091F5AC0024FBD4 /* ViewController.swift */,
+				201800232091F7980024FBD4 /* LadyViewController.swift */,
 				201800132091F5AC0024FBD4 /* Main.storyboard */,
 				201800162091F5AC0024FBD4 /* Assets.xcassets */,
 				201800182091F5AC0024FBD4 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				201800122091F5AC0024FBD4 /* ViewController.swift in Sources */,
 				201800102091F5AC0024FBD4 /* AppDelegate.swift in Sources */,
+				201800242091F7980024FBD4 /* LadyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
